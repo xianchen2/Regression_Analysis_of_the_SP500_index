@@ -1,4 +1,4 @@
-# Regression analysis of five assets 
+# Regression analysis of the S&P 500 index
 
 Regression analysis of five assets on the S&P 500 index and visualization using Plotly
 
